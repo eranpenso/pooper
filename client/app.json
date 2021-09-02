@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "pooper",
+    "slug": "pooper",
+    "version": "1.0.0",
+    "icon": "./assets/playstore.png",
+    "privacy": "public",
+    "assetBundlePatterns": [
+      "./assets/infobutton.png",
+      "./assets/playstore.png",
+      "./screens/mapmarkertoilet.png"
+    ],
+    "android": {
+      "package": "com.eranpenso.pooper"
+    },
+    "ios": {
+      "bundleIdentifier": "com.eranpensodevelop.pooper",
+      "buildNumber": "1.0.0"
+    }
+  }
+}
